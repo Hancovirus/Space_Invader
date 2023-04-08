@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1678675769 source:c:\users\user\desktop\please end my suffering\uetproject\main.cpp
+	"Game.h"
+
+1678777062 c:\users\user\desktop\please end my suffering\uetproject\include\game.h
+	"Texture.h"
+	"Object.h"
+	"Player.h"
+	"Enemy.h"
+	<math.h>
+
+1678522863 c:\users\user\desktop\please end my suffering\uetproject\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+	<math.h>
+
+1678519162 c:\users\user\desktop\please end my suffering\uetproject\include\object.h
+	"Texture.h"
+
+1678773717 c:\users\user\desktop\please end my suffering\uetproject\include\player.h
+	"Object.h"
+	"Bullet.h"
+
+1678775703 c:\users\user\desktop\please end my suffering\uetproject\include\bullet.h
+	"Object.h"
+
+1678775694 c:\users\user\desktop\please end my suffering\uetproject\include\enemy.h
+	"Object.h"
+	"Bullet.h"
+
+1678775710 source:c:\users\user\desktop\please end my suffering\uetproject\src\bullet.cpp
+	"Bullet.h"
+
+1678776138 source:c:\users\user\desktop\please end my suffering\uetproject\src\enemy.cpp
+	"Enemy.h"
+
+1678775694 source:c:\users\user\desktop\please end my suffering\uetproject\src\game.cpp
+	"Game.h"
+
+1677606424 source:c:\users\user\desktop\please end my suffering\uetproject\src\object.cpp
+	"Object.h"
+
+1678774601 source:c:\users\user\desktop\please end my suffering\uetproject\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1677653752 source:c:\users\user\desktop\please end my suffering\uetproject\src\texture.cpp
+	"Texture.h"
+
+1680619470 source:c:\users\user\desktop\please end my suffering\main.cpp
+	"Game.h"
+
+1680784739 c:\users\user\desktop\please end my suffering\include\game.h
+	"Texture.h"
+	"Object.h"
+	"Player.h"
+	"Enemy.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	<math.h>
+	<fstream>
+
+1679412205 c:\users\user\desktop\please end my suffering\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+	<math.h>
+	"SDL_ttf.h"
+
+1678519162 c:\users\user\desktop\please end my suffering\include\object.h
+	"Texture.h"
+
+1680786907 c:\users\user\desktop\please end my suffering\include\player.h
+	"SDL_mixer.h"
+	"Object.h"
+	"Bullet.h"
+
+1680621394 c:\users\user\desktop\please end my suffering\include\bullet.h
+	"Object.h"
+
+1680784739 c:\users\user\desktop\please end my suffering\include\enemy.h
+	"Object.h"
+	"Bullet.h"
+
+1680787835 source:c:\users\user\desktop\please end my suffering\src\bullet.cpp
+	"Bullet.h"
+
+1680929693 source:c:\users\user\desktop\please end my suffering\src\enemy.cpp
+	"Enemy.h"
+
+1680929935 source:c:\users\user\desktop\please end my suffering\src\game.cpp
+	"Game.h"
+
+1677606424 source:c:\users\user\desktop\please end my suffering\src\object.cpp
+	"Object.h"
+
+1680929725 source:c:\users\user\desktop\please end my suffering\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1679391568 source:c:\users\user\desktop\please end my suffering\src\texture.cpp
+	"Texture.h"
+
+1679387204 source:c:\users\user\desktop\please end my suffering\src\text.cpp
+	"Text.h"
+
+1679387204 c:\users\user\desktop\please end my suffering\include\text.h
+
+1680619470 source:c:\users\user\desktop\new folder\main.cpp
+	"Game.h"
+
+1680784739 c:\users\user\desktop\new folder\include\game.h
+	"Texture.h"
+	"Object.h"
+	"Player.h"
+	"Enemy.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	<math.h>
+	<fstream>
+
+1679412205 c:\users\user\desktop\new folder\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+	<math.h>
+	"SDL_ttf.h"
+
+1678519162 c:\users\user\desktop\new folder\include\object.h
+	"Texture.h"
+
+1680786907 c:\users\user\desktop\new folder\include\player.h
+	"SDL_mixer.h"
+	"Object.h"
+	"Bullet.h"
+
+1680621394 c:\users\user\desktop\new folder\include\bullet.h
+	"Object.h"
+
+1680784739 c:\users\user\desktop\new folder\include\enemy.h
+	"Object.h"
+	"Bullet.h"
+
+1680787835 source:c:\users\user\desktop\new folder\src\bullet.cpp
+	"Bullet.h"
+
+1680929693 source:c:\users\user\desktop\new folder\src\enemy.cpp
+	"Enemy.h"
+
+1680929935 source:c:\users\user\desktop\new folder\src\game.cpp
+	"Game.h"
+
+1677606424 source:c:\users\user\desktop\new folder\src\object.cpp
+	"Object.h"
+
+1680929955 source:c:\users\user\desktop\new folder\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1679391568 source:c:\users\user\desktop\new folder\src\texture.cpp
+	"Texture.h"
+

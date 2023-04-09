@@ -51,7 +51,7 @@
 	Dogsong - Toby Fox
 	Victory Fanfare - Final Fantasy 7
 	
-## Reference material ##
+## Reference materials ##
 
 	Lazy Foo' : https://lazyfoo.net/tutorials/SDL/index.php
 	SDL Game  Development by Shaun Mitchell

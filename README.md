@@ -12,18 +12,18 @@
  
 ## How to play ##
 
-	Use Arrow keys to move.
-	Hold left Shift to move slow.
+	Use **Arrow keys** to move.
+	Hold **left Shift** to move slow.
  
 ## How to win ##
 
-	You win by making the enemy health fall down to zero using your automatic laser gun.
+	You win by making the enemy **health** fall down to zero using your automatic laser gun.
  
 ## Health system ##
 
- 	You and your enemy start with 1000 health each.
-	Your bullets take away 1 health from the enemy and give you 5 health.
- 	The enemy's bullets take away 100 health from you.
+ 	You and your enemy start with 1000 **health** each.
+	Your bullets take away 1 **health** from the enemy and give you 5 **health**.
+ 	The enemy's bullets take away 100 **health** from you.
  
 ## Point system ##
 

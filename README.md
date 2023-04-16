@@ -59,4 +59,4 @@
 	
 ## Direct download ##
 
-	https://drive.google.com/drive/folders/11omEslPX4xBPkID5FPjyvr5wz_ZGSG4Q?usp=share_link
+	https://drive.google.com/file/d/1as5_fVrZDsF3TXNgRSZi6tHE8tiWF5zG/view?usp=share_link

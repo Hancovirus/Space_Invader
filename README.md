@@ -54,7 +54,7 @@
 ## Reference materials ##
 
 	Lazy Foo' : https://lazyfoo.net/tutorials/SDL/index.php
-	SDL Game  Development by Shaun Mitchell
+	SDL Game Development by Shaun Mitchell
 	Phát triển phần mềm 123: https://phattrienphanmem123az.com/lap-trinh-game-cpp
 	
 ## Direct download ##
